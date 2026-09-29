@@ -48,6 +48,7 @@ complex = 1 + 2j , 3 + 4j , 5 + 6j , -7 + 8j , 0 + 0j # Complex
 
 #Text Data type in python
 string = "Hello" , 'World' , "Python" , 'Programming' , "Data Science" , 'Machine '
+''
 '' # String
 
 # Boolean Data type in python

@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 .env
+
+# git add .
+# git commit -m "Updated Class 04"
+# git push
